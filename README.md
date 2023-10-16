@@ -95,7 +95,7 @@
 
 - <a href="https://facebook.com/nakamurayuki27"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-🇯🇵 中村 由貴 💘-blue?style=flat-square&logo=facebook"></a>
 - <a href="https://www.instagram.com/nakamurayuki27"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-🇯🇵 中村 由貴 💘-blue?style=flat-square&logo=instagram"></a>
-- <a href="https://www.instagram.com/nakamurayuki27"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-🇯🇵 中村 由貴 💘-blue?style=flat-square&logo=twitter"></a>
+- <a href="https://www.twitter.com/nakamurayuki27"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-🇯🇵 中村 由貴 💘-blue?style=flat-square&logo=twitter"></a>
 - <a href="mailto: nakamurayuki.contact@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nakamurayuki.contact@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <hr/>
