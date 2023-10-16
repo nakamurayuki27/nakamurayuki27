@@ -1,8 +1,8 @@
-<h3 align="center">🇯🇵 中村 由貴 💘<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h3 align="center">🇯🇵 中村 由貴 💘</h3>
 
 <p align='center'><a href="https://api.daily.dev/get?r=nakamurayuki27"><img src="https://telegra.ph/file/26cf8f8a0498daf641134.jpg?r=82s" width="150" alt="Nakamura Yuki's Dev Card" style="border-radius: 50%;object-fit: cover;"/></a></p>
 
-<p align='center'><a href="https://github.com/nakamurayuki27?tab=followers"><img src="https://img.shields.io/github/followers/nakamurayuki27?label=💚&style=social" alt="GitHub Badge" /></a><img style="padding-left:10px;" src="https://komarev.com/ghpvc/?username=nakamurayuki27&label=👤&color=98AE85&style=for-the-badge" alt="nakamurayuki27" width="40" /></p>
+<p align='center'><a href="https://github.com/nakamurayuki27?tab=followers"><img src="https://img.shields.io/github/followers/nakamurayuki27?label=&style=social" alt="GitHub Badge" /></a><img style="padding-left:10px;"  src="https://komarev.com/ghpvc/?username=nakamurayuki27&label=👤&color=98AE85&style=for-the-badge" alt="nakamurayuki27" width="40" /></p>
 
 <p align="center">バーチャルワールド探検家 🌐 | クリエイティブアーティスト 🎨 | テクノロジー＆アート ⚙️ | 他をインスパイア 🌟
 
@@ -10,8 +10,8 @@
 
 <hr/>
 
-<p align="start" style="background:#98AE85;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&center=true&vCenter=true&lines=私のGitHubへようこそ" />
+<p align="start">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%16a085&center=true&vCenter=true&lines=私のGitHubへようこそ" />
 </p>
 
 ### 🙋‍♂️ 自己紹介
@@ -100,4 +100,4 @@
 
 <hr/>
 
-<h3 align="center">来てくれてありがとう <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h3 align="center">来てくれてありがとう👋</h3>
